@@ -10,7 +10,7 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
-            Image(systemName: "flag")
+            Image(systemName: "mail")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("Hello, 123!")
